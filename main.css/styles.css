@@ -283,12 +283,11 @@ a {
 .page-footer {
   padding-top: 100px;
   padding-bottom: 100px;
+  padding-left: 156px;
   background-color: var(--primary-background-color);
 }
 
 .page-footer a {
-  left: 156px;
-
   color: #e7e9fc;
 }
 
@@ -297,10 +296,6 @@ a {
 
   padding-top: 16px;
   width: 264px;
-}
-
-.footer {
-  padding-left: 156px;
 }
 
 /* portfolio page */
