@@ -23,7 +23,6 @@ body {
 }
 
 .container {
-  display: flex;
   width: 1158px;
   padding-left: 15px;
   padding-right: 15px;
@@ -332,17 +331,12 @@ a {
   color: #ffffff;
 }
 
-/* examples-list */
-/* .example-list {
-  display: flex;
-  padding-bottom: 146px;
-} */
-
 .examples-list {
   display: flex;
   flex-wrap: wrap;
   row-gap: 54px;
   column-gap: 24px;
+  padding-bottom: 120px;
 }
 
 .examples-list:nth-child(3n) {
