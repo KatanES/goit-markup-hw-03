@@ -333,10 +333,10 @@ a {
 }
 
 /* examples-list */
-.example-list {
+/* .example-list {
   display: flex;
   padding-bottom: 146px;
-}
+} */
 
 .examples-list {
   display: flex;
