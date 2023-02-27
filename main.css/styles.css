@@ -306,6 +306,10 @@ a {
 /* portfolio page */
 
 .filters {
+  padding-bottom: 146px;
+}
+
+.filters {
   padding-top: 96px;
 }
 
@@ -337,7 +341,7 @@ a {
   flex-wrap: wrap;
   row-gap: 54px;
   column-gap: 24px;
-  padding-bottom: 146px;
+  /* padding-bottom: 146px; */
 }
 
 .examples-list:nth-child(3n) {
